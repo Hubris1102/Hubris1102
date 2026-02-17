@@ -25,7 +25,7 @@ C C++ Java Python Bash Script
 
 
 
-{!--
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hubris1102&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hubris1102&theme=dark&hide_border=false)<br/>
@@ -36,4 +36,4 @@ C C++ Java Python Bash Script
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
---}
+-->
