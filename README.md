@@ -10,7 +10,7 @@ Welcome to my Github profile! I’m a Software Developer driven by the challenge
 🎓 I’m a Computer Science (Hons.) graduate from Arizona State University with a Bachelor's degree.
 💻 I like to code for fun and explore new technologies.
 🌟 I’m looking to contribute to open-source projects.
-📫 How to reach me: atharvagrawal24@gmail.com | LinkedIn
+📫 How to reach me: swaroop.damodaran@gmail.com| LinkedIn
 🛠 Skills
 Programming Languages
 C C++ Java Python Bash Script
