@@ -1,16 +1,31 @@
-## Hi there 👋
+agroandrew/README.md
+👋 Hi there
+Software Developer | Tech Enthusiast
 
-<!--
-**Hubris1102/Hubris1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile! I’m a Software Developer driven by the challenge of building elegant solutions to complex problems. I have a diverse skill set spanning various programming languages, web frameworks, and modern DevOps tools.
 
-Here are some ideas to get you started:
+         
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🎓 I’m a Computer Science (Hons.) graduate from Arizona State University with a Bachelor's degree.
+💻 I like to code for fun and explore new technologies.
+🌟 I’m looking to contribute to open-source projects.
+📫 How to reach me: atharvagrawal24@gmail.com | LinkedIn
+🛠 Skills
+Programming Languages
+C C++ Java Python Bash Script
+
+Web Development
+HTML5 CSS3 JavaScript React
+
+Tools and Technologies
+Bootstrap Flask JWT MySQL Postgres Canva Docker Kubernetes Postman Swagger Jira Ubuntu
+
+Cloud
+AWS Snowflake
+
+Apache
+Apache Airflow Apache Maven Apache Spark Apache Hive Apache Apache Kafka
+
+Version Control
+Git GitHub GitLab
